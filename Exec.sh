@@ -1,2 +1,0 @@
-root -l -b -q MIPVIEWNEW_TRK_ALL.C
-root -l LYSO_FINAL_COMPARISON.C
